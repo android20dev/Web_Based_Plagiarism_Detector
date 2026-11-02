@@ -16,7 +16,8 @@ Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Backend: Java, Spring Boot
 - Database: MySQL
-- Tools: IntelliJ IDEA, GitHub
+- Tools: IntelliJ IDEA
+- Code Hosting Platform: GitHub 
 
 Key Features
 
